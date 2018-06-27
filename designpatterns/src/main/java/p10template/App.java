@@ -10,7 +10,7 @@ public class App {
 
         val thief = new Thief();
 
-        thief.setMethod(new HItAndRun());
+        thief.setMethod(new HitAndRun());
         thief.steal();
 
         System.out.println("\n");

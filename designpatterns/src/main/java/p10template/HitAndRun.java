@@ -1,6 +1,6 @@
 package p10template;
 
-public class HItAndRun extends StealingMethod {
+public class HitAndRun extends StealingMethod {
     @Override
     public String pickTarget() {
         return "random guy";
